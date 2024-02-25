@@ -1,0 +1,19 @@
+.mainDiv{
+    width: 100%;
+    text-align: left;
+}
+
+.mainDiv h3{
+    display: inline;
+}
+
+.mainDiv button{
+    float: right;
+    border-color: white;
+}
+
+.playBtn{
+    width: 200px;
+    height: 45px;
+    font-size: 20px;
+}
